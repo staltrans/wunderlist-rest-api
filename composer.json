@@ -1,0 +1,19 @@
+{
+    "name": "staltrans/wunderlist-rest-api",
+    "version": "0.1",
+    "description": "Wunderlist REST API client in PHP",
+    "homepage": "https://github.com/staltrans/wunderlist-rest-api",
+    "require": {
+        "nategood/httpful": "*"
+    },
+    "source": {
+        "type": "git",
+        "url": "https://github.com/staltrans/wunderlist-rest-api.git",
+        "reference": "master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Wunderlist": "src/"
+        }
+    }
+}
