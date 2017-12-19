@@ -1,6 +1,6 @@
 {
     "name": "staltrans/wunderlist-rest-api",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Wunderlist REST API client in PHP",
     "homepage": "https://github.com/staltrans/wunderlist-rest-api",
     "require": {
