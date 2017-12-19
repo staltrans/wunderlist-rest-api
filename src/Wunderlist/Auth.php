@@ -1,6 +1,6 @@
 <?php
 
-namespace Wunderlist\Auth;
+namespace Wunderlist;
 
 use Httpful\Request;
 use Wunderlist\Common;
